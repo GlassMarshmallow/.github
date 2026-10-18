@@ -15,5 +15,9 @@
 </p>
 
 <p align="center">
-  Docs, icons, tools and blog: coming soon with v0.1.
+  <a href="https://glassmarshmallow.com"><strong>glassmarshmallow.com</strong></a>:
+  <a href="https://glassmarshmallow.com/docs">documentation</a>,
+  <a href="https://glassmarshmallow.com/icons">icons</a>,
+  <a href="https://glassmarshmallow.com/tools">tools</a> and
+  <a href="https://glassmarshmallow.com/blog">blog</a>.
 </p>
